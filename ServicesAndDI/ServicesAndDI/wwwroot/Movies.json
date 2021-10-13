@@ -1,0 +1,25 @@
+﻿[
+	{
+		"Name": "Schindler's List",
+		"Year": 1993,
+		"Director": "Steven Spielberg"
+	},
+
+	{
+		"Name": "Die Hard",
+		"Year": 1988,
+		"Director": "John McTiernan"
+	},
+
+	{
+		"Name": "The Good, the Bad and the Ugly",
+		"Year": 1966,
+		"Director": "Sergio Leone"
+	},
+
+	{
+		"Name": "The Dark Knight",
+		"Year": 2008,
+		"Director": "Christopher Nolan"
+	}
+]
